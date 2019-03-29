@@ -22,7 +22,7 @@ To run the code you need:
 
 ## Blog post
 
-Full details will be provided in a blog post coming soon.
+Full details are provided in this blog post:
 
-[Link to blogpost](TBD)
+[Handling an inbound call with Python](https://www.nexmo.com/blog/2019/03/28/handling-inbound-calls-with-python-dr/)
 
